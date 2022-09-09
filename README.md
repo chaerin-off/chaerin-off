@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **Algorithm**
 - 💬 Ask me about **Anything**
-- ⚡ Fun fact: **I hope to develop every beautiful things🌸**
+- ⚡ Fun fact: **I hope to develop every beautiful things**
 
 <br>
 
