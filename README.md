@@ -1,9 +1,4 @@
 ### Hi there I'm Chaerin Kim 👋
-
-- 🌱 I’m currently learning **Web and Flutter App Development**
-- 👯 I’m looking to collaborate on **Web Development**
-- 💬 Ask me about **Anything**
-
 <br>
 
 <pre>
